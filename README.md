@@ -17,7 +17,7 @@ Each project is linked to its own repository with detailed instructions on how t
 
 ## Contact
 
-You can contact me via [davraops@example.com](mailto:davraops@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/davraops).
+You can contact me via [davrajobs@gmail.com](mailto:davrajobs@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/avellarafael).
 
 ## License
 
