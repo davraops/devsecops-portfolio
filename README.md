@@ -12,6 +12,14 @@ Welcome to my DevSecOps Portfolio! This repository showcases a curated collectio
 6. [Monitoring and Logging](https://github.com/davraops/monitoring-logging-demo)
 7. [Container Security](https://github.com/davraops/container-security)
 8. [Serverless Deployment](https://github.com/davraops/serverless-app)
+9. [Automated Testing](https://github.com/davraops/automated-testing)
+10. [Compliance As Code](https://github.com/davraops/compliance-as-code)
+11. [Secrets Management](https://github.com/davraops/secrets-management)
+12. [Network Configuration](https://github.com/davraops/network-configuration)
+13. [Logging And Alerting](https://github.com/davraops/logging-and-alerting)
+14. [Cloud Cost Optimization](https://github.com/davraops/cloud-cost-optimization)
+15. [API Management](https://github.com/davraops/api-management)
+16. [Container Orchestration](https://github.com/davraops/container-orchestration)
 
 Each project is linked to its own repository with detailed instructions on how to set it up and use it. Feel free to explore and reach out if you have any questions or suggestions.
 
