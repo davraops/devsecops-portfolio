@@ -20,6 +20,7 @@ Welcome to my DevSecOps Portfolio! This repository showcases a curated collectio
 14. [Cloud Cost Optimization](https://github.com/davraops/cloud-cost-optimization)
 15. [API Management](https://github.com/davraops/api-management)
 16. [Container Orchestration](https://github.com/davraops/container-orchestration)
+17. [Automated Documentation](https://github.com/davraops/automated-documentation)
 
 Each project is linked to its own repository with detailed instructions on how to set it up and use it. Feel free to explore and reach out if you have any questions or suggestions.
 
