@@ -1,0 +1,18 @@
+name: sample-gate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  release-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Required gates are listed
+        run: |
+          set -euo pipefail
+          for gate in sast sca iac-scan slo-documented; do
+            grep -qx "  - ${gate}" samples/release-gate.yml
+          done
+          grep -q "99.9%" samples/checkout-api.slo.md

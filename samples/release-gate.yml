@@ -1,0 +1,9 @@
+# Sample release policy. Illustrates the gates, not a live client pipeline.
+gates:
+  - sast
+  - sca
+  - iac-scan
+  - slo-documented
+block_on:
+  - critical
+  - high
